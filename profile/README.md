@@ -1,14 +1,27 @@
-# BlackRoad / Foundation
+# BlackRoad-OS-Foundation
 
-> **Remember the Road. Pave Tomorrow.**
+BlackRoad OS organization workbench.
 
-Public surfaces, search, and the helpdesk — the pieces of BlackRoad that face out instead of in.
+This org is part of the BlackRoad OS canon structure:
 
-**This org owns**
-- RoadView (universal search, verified results, observability)
-- RoadSide (front-door support and routing)
-- Public-goods code and shared utilities
+- 1 operator
+- 27 agents
+- 27 products
+- 20 root domains
+- 20 active GitHub orgs
 
-BlackRoad builds RoadBound software — the public surfaces still know whose road they're on.
+Status:
+Initialized organization profile and default community files.
 
-[blackroad.io](https://blackroad.io) · [roadview.blackroad.io](https://roadview.blackroad.io)
+Honesty note:
+Repos in this org may be initialized shells. Do not treat them as implemented products unless their README, tests, deployment notes, and receipts prove it.
+
+Rules:
+- Do not commit secrets.
+- Keep main clean.
+- Use blackroad-lab for experiments.
+- Write receipts for meaningful changes.
+- Mark unfinished work honestly: MOCK, PARTIAL, UNKNOWN, or REAL.
+
+Tagline:
+Remember the Road. Pave Tomorrow.
